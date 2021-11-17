@@ -10,4 +10,5 @@ Import the environment from environment.yml
 `conda env create -f environment.yml`
 
 # Run the code
+`conda activate gan`  
 `python gan.py`
